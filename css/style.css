@@ -20,10 +20,20 @@ body {
   display: inline-block;
   width: 300px;
 }
-/* discount */
+/* discount 30%*/
 .box .discount{
   position: absolute;
+  width: 30px;
   top: 0;
   right:0;
   background-color: green;
+}
+/* discount 5% */
+.box:nth-child(2) .discount{
+  position: absolute;
+  width: 30px;
+  top: 0;
+  right:0;
+  background-color: red;
+  text-align: center;
 }
