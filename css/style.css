@@ -19,6 +19,7 @@ body {
   position: relative;
   display: inline-block;
   width: 300px;
+  cursor: pointer;
 }
 /* discount 30%*/
 .box .discount{
