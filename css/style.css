@@ -27,6 +27,7 @@ body {
   top: 0;
   right:0;
   background-color: green;
+  text-align: center;
 }
 /* discount 5% */
 .box:nth-child(2) .discount{
@@ -35,5 +36,13 @@ body {
   top: 0;
   right:0;
   background-color: red;
+  text-align: center;
+}
+/* heart */
+.box .heart{
+  position: absolute;
+  width: 100%;
+  bottom: 0;
+  color: red;
   text-align: center;
 }
