@@ -7,6 +7,11 @@
 body {
   padding: 10px;
 }
+main{
+  width: 1350px;
+  margin: auto;
+  text-align: center;
+}
 /* section */
 .section {
 }
