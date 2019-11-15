@@ -3,3 +3,13 @@
   margin: 0;
   box-sizing: border-box;
 }
+/* main */
+main {
+  padding: 10px;
+  background-color: green;
+}
+.section {
+  background-color: red;
+}
+.box {background-color: blue
+}
