@@ -11,5 +11,10 @@ main {
 .section {
   background-color: red;
 }
-.box {background-color: blue
+/* box */
+.box {
+  background-color: blue;
+  display: inline-block;
+  width: 400px;
+  margin-bottom: 20px;
 }
